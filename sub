@@ -1,0 +1,8 @@
+main.py
+app.py
+network_scanner.py
+usb_scanner.py
+templates/index.html
+static/js/main.js 
+static/css/custom.css
+README.md
